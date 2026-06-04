@@ -11430,11 +11430,6 @@ const data4: Protocol[] = [
         type: "Fallback",
         proof: ["https://docs.bsc.lista.org/for-developer/multi-oracle"],
       },
-      {
-        name: "API3",
-        type: "Secondary",
-        proof: ["https://docs.bsc.lista.org/for-developer/multi-oracle"],
-      },
     ],
     tokensExcludedFromParent: {
       BSC: ["SLISBNB"],

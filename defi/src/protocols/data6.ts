@@ -4238,6 +4238,9 @@ const data6: Protocol[] = [
     twitter: "LISTA_DAO",
     parentProtocol: "parent#lista-dao",
     listedAt: 1779415531,
+    dimensions: {
+      fees: "lis-aster",
+    },
   },
   {
     id: "7909",
